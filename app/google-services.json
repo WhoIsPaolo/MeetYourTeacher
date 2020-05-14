@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "801126477733",
+    "firebase_url": "https://tm-meet-your-teacher.firebaseio.com",
+    "project_id": "tm-meet-your-teacher",
+    "storage_bucket": "tm-meet-your-teacher.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:801126477733:android:7946a3839be2d505",
+        "android_client_info": {
+          "package_name": "com.example.meetyourteacher"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "801126477733-7eeaomlc0e7q7tbe3rdpm339cvj8an4l.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.meetyourteacher",
+            "certificate_hash": "2b94832bcbea8199e0ad45e0a6b21aa405205ae1"
+          }
+        },
+        {
+          "client_id": "801126477733-l770b0132stmcq6e5bvl0lhqpm3tvh66.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB_Pj4bPLKSOaVvKUWf1ByAGz20g0fgKs4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "801126477733-l770b0132stmcq6e5bvl0lhqpm3tvh66.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

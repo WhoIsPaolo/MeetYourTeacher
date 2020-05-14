@@ -1,0 +1,48 @@
+<resources>
+
+    <color name="myt_blue">#1B2D90</color>
+    <color name="myt_white">#ffffff</color>
+    <color name="myt_orange">#e97614</color>
+
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/myt_blue</item>
+        <item name="colorPrimaryDark">@color/myt_blue</item>
+        <item name="colorAccent">@color/myt_blue</item>
+    </style>
+
+    <style name="SplashScreen" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="android:background">@color/myt_blue</item>
+        <item name="android:windowBackground">@color/myt_blue</item>
+        <item name="android:colorBackground">@color/myt_blue</item>
+        <item name="colorPrimary">@color/myt_blue</item>
+        <item name="colorPrimaryDark">@color/myt_blue</item>
+        <item name="colorAccent">@color/myt_blue</item>
+    </style>
+
+    <style name="MainActivity" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="android:background">@color/myt_blue</item>
+        <item name="android:windowBackground">@color/myt_blue</item>
+        <item name="android:colorBackground">@color/myt_blue</item>
+        <item name="colorPrimary">@color/myt_blue</item>
+        <item name="colorPrimaryDark">@color/myt_blue</item>
+        <item name="colorAccent">@color/myt_blue</item>
+        <item name="android:textColor">@color/myt_white</item>
+    </style>
+
+    <style name="RegisterUser" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="android:background">@color/myt_blue</item>
+        <item name="android:windowBackground">@color/myt_blue</item>
+        <item name="android:colorBackground">@color/myt_blue</item>
+        <item name="colorPrimary">@color/myt_blue</item>
+        <item name="colorPrimaryDark">@color/myt_blue</item>
+        <item name="colorAccent">@color/myt_blue</item>
+        <item name="android:textColor">@color/myt_white</item>
+    </style>
+
+</resources>
